@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 2d3f205f959173217b0aabac1a699cbc3a6f6b2c DesignClaw Bot <bobo@myshell.ai> 1772530253 +0000	commit (initial): Update to Browser Use workflow - Playwright-based monthly stats scraping
+2d3f205f959173217b0aabac1a699cbc3a6f6b2c 1beaa7e10c0860e8aab713794ab61dafa4a7603d DesignClaw Bot <bobo@myshell.ai> 1772530792 +0000	commit: Fix parser: reliable designer name extraction from continuous text
